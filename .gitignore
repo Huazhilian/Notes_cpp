@@ -1,0 +1,20 @@
+## Ignore Visual Studio temporary files, build results, and user-specific files
+
+.vs/              # Visual Studio workspace folder
+*.user            # User-specific settings
+*.suo             # Solution user options
+*.userosscache
+*.sln.docstates
+
+# Build results
+[Bb]in/
+[Oo]bj/
+
+# NuGet
+*.nupkg
+packages/
+
+# Others
+*.log
+*.tlog
+*.cache
